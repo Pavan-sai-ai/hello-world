@@ -1,2 +1,1 @@
-author pavan(Apna college
-)
+pavan
